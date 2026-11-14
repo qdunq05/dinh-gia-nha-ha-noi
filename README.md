@@ -1,7 +1,7 @@
 # 🏠 Định giá nhà đất Hà Nội bằng AI
 
 **Demo trực tuyến:** https://dinh-gia-nha-ha-noi.streamlit.app  
-**Mô hình:** https://huggingface.co/sdfghedrhgr/dinh-gia-nha-ha-noi
+**Mô hình:** https://huggingface.co/Qdunq05/dinh-gia-nha-ha-noi
 
 Ứng dụng web giúp ước tính giá **nhà riêng** và **căn hộ chung cư** tại Hà Nội. Người dùng nhập vị trí, diện tích, số tầng, mặt tiền,
 pháp lý, đặc điểm nổi bật và mô tả tự do. Mô hình trả về:
