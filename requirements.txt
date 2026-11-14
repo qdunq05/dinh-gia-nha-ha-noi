@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+transformers>=4.45
+lightgbm
+pandas
+pyarrow
+numpy
+huggingface_hub
+streamlit
